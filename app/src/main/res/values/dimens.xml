@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- margins -->
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="default_margin_between_elements">5dp</dimen>
+
+    <!-- dividers -->
+    <dimen name="default_divider_height">1dp</dimen>
+    <dimen name="default_margin_between_dividers">10dp</dimen>
+
+    <!-- cardviews-->
+    <dimen name="card_view_elevation">8dp</dimen>
+    <dimen name="card_view_border_radius">5dp</dimen>
+
+    <!-- avatars -->
+    <dimen name="avatar_default_dimens">100dp</dimen>
+</resources>
